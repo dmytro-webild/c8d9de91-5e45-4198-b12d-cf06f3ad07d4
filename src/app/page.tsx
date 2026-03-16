@@ -46,7 +46,7 @@ export default function LandingPage() {
         <HeroBillboardRotatedCarousel
           title="Welcome to The Hideout Emporium"
           description="Holmfirth's cosiest café hideaway for outrageous toasties, bottomless brunch and seriously good coffee. Come hungry. Leave happy. Bring the dog."
-          background={{ variant: "aurora" }}
+          background={{ variant: "radial-gradient" }}
           tag="Holmfirth's Worst Kept Secret"
           tagIcon={Sparkles}
           tagAnimation="slide-up"
