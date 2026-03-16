@@ -21,7 +21,7 @@ export default function LandingPage() {
       borderRadius="rounded"
       contentWidth="compact"
       sizing="largeSizeMediumTitles"
-      background="aurora"
+      background="circleGradient"
       cardStyle="inset"
       primaryButtonStyle="double-inset"
       secondaryButtonStyle="glass"
